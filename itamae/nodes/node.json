@@ -1,0 +1,11 @@
+{
+  "rbenv": {
+    "versions": ["2.3.0"],
+    "global": "2.3.0",
+    "gems": ["bundler", "rails -v 5.0.0", "pry"]
+  },
+  "postgres": {
+    "user": "your_user",
+    "pass": "your_pass"
+  }
+}
