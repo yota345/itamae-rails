@@ -3,7 +3,7 @@
 ## Description
 You can set up rails environment in your server with the provisioner, itamae.  
 Itamae is simple and lightweight configuration management tool inspired by Chef.  
-This README guides you to run itamae for vagrant server, but you could also use this provisioner for your cloud server like aws ec2 instance.
+This README guides you to run itamae for vagrant server, but with a little customization, you could also use this provisioner for your cloud server like aws ec2 instance.
 
 
 ## Requirement
